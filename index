@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test deeplinks page</title>
+</head>
+<body>
+    <h1>Figgerits</h1>
+    <a href="hitapps://figgerits" target="_blank">Open app</a>
+    <br>
+    <a href="hitapps://figgerits?openpopup" target="_blank">Open app, open popup</a>
+</body>
+</html>
